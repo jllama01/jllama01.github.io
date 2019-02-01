@@ -1,0 +1,73 @@
+/* Comment */ 
+
+#link{
+	padding: 30px;
+	background-image: url("header.jpg");
+	background-size: cover;
+}
+
+.segment{
+	background-color: #fff;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+
+body {
+	background-color: #1ac6ff;
+	font-family: "Georgia", serif;
+	text-align: center;
+}
+
+h4 {
+	color: black;
+	background-color: white; 
+	text-align: center;
+	border-style: double;
+}
+
+ul{
+	display: table;
+	margin: 0 auto;
+}
+
+a{
+	font-size: large;
+	color: white;
+}
+
+.institution{
+font-weight: bold;
+color: white;
+}
+
+.double{
+	border-style: double;
+}
+
+.list
+{
+	text-align: left;
+
+}
+
+img{
+	height: 600px;
+	width: 50%;
+	border: 3px solid white;
+	border-radius: 15%;
+
+}
+
+h2 {
+	font-family: "Georgia", serif;
+	text-align: center;
+} 
+
+
+
+
+
+
+
+
