@@ -1,17 +1,17 @@
-/* Comment */ 
 
-#link{
-	padding: 30px;
-	background-image: url("header.jpg");
-	background-size: cover;
+img{
+	height: 600px;
+	width: 50%;
+	border: 3px solid white;
+	border-radius: 15%;
+
 }
 
-.segment{
-	background-color: #fff;
-	padding: 15px;
-	margin-bottom: 10px;
-	border-radius: 10px;
-}
+h2 {
+	font-family: "Georgia", serif;
+	text-align: center;
+} 
+
 
 body {
 	background-color: #ccf2ff;
@@ -37,6 +37,19 @@ a{
 	color: white;
 }
 
+#link{
+	padding: 30px;
+	background-image: url("header.jpg");
+	background-size: cover;
+}
+
+.segment{
+	background-color: #fff;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+
 .institution{
 font-weight: bold;
 color: black;
@@ -51,19 +64,6 @@ color: black;
 	text-align: left;
 
 }
-
-img{
-	height: 600px;
-	width: 50%;
-	border: 3px solid white;
-	border-radius: 15%;
-
-}
-
-h2 {
-	font-family: "Georgia", serif;
-	text-align: center;
-} 
 
 
 
